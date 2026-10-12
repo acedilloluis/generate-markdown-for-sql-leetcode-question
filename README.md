@@ -1,4 +1,4 @@
-## Create a Markdown File for the SQL-LeetCode-Questions Repository and Update Its README
+## Create a Markdown File for Each Question in the SQL-LeetCode-Questions Repository and Update Its README
 
 ### Description
 
